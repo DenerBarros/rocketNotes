@@ -17,6 +17,7 @@ Desenvolvimento de uma api web para salvar links relevantes
 ### 📘 Bibliotecas utilizadas
   `ReactJS`
   `Vite`
+  `Styledd-Components`
  
 <br>
 
