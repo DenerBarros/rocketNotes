@@ -25,7 +25,7 @@ export function Header(){
 
                 <div>
                     <span>Bem-vindo</span>
-                    <strong>Dener Barros</strong>
+                    <strong>{user.name}</strong>
                 </div>
             </Profile>
 
